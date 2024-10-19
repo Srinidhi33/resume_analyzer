@@ -8,3 +8,6 @@ __pycache__/
 # Ignore other files
 *.DS_Store  # macOS
 .env        # if you use environment variables
+
+#temp files
+temp.py
